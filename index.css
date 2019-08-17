@@ -1,0 +1,17 @@
+.heading {
+    color:aqua; 
+    background-color:blue;
+    font-size:40px
+}
+
+.mystyle {
+    background-color: brown;
+    font-size: 60px;
+    padding: 10px;
+} 
+.bgimg{
+    background-size: cover;
+    background-image: url("bgimg.jpg"); 
+    min-height: 70%;
+    /*min-width:50%;*/
+}
